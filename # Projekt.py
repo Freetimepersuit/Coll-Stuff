@@ -1,4 +1,5 @@
-# Rock, Paper, Scissors Game
+# Snake Game
+
 
 import turtle
 import time
